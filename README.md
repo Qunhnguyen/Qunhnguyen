@@ -29,9 +29,11 @@
 </div>
 
 <br>
-<div align="center">
-  <img alt="pacman contribution graph" src="https://github.com/Qunhnguyen/Qunhnguyen/blob/output/pacman-contribution-graph.svg?raw=true">
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Qunhnguyen/Qunhnguyen/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Qunhnguyen/Qunhnguyen/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Qunhnguyen/Qunhnguyen/output/pacman-contribution-graph.svg">
+</picture>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Qunhnguyen/Qunhnguyen/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
