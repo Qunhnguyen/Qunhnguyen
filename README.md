@@ -31,15 +31,5 @@
 <br>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Qunhnguyen/Qunhnguyen/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Qunhnguyen/Qunhnguyen/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Qunhnguyen/Qunhnguyen/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
-
-<br>
-
-<div align="center">
-  ![snake gif](https://github.com/Qunhnguyen/Qunhnguyen/blob/output/github-snake-dark.svg)
+  <img src="https://raw.githubusercontent.com/Qunhnguyen/Qunhnguyen/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
