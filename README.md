@@ -41,5 +41,5 @@
 <br>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Qunhnguyen.Qunhnguyen&" alt="visitor badge" />
+  ![snake gif](https://github.com/YOUR_USERNAME/Qunhnguyen/blob/output/github-snake-dark.svg)
 </div>
