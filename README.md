@@ -30,7 +30,7 @@
 
 <br>
 <div align="center">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Qunhnguyen/Qunhnguyen/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://github.com/Qunhnguyen/Qunhnguyen/blob/output/pacman-contribution-graph.svg?raw=true">
 </div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Qunhnguyen/Qunhnguyen/output/github-snake-dark.svg" alt="Snake animation" />
